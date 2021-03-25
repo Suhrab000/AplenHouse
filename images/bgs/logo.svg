@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="41px" viewBox="0 0 60 41" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>Logo</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="AlpenHouse-Logo" transform="translate(-145.000000, -103.000000)">
+            <g id="Logo" transform="translate(145.000000, 103.000000)">
+                <path d="M14.5111,10.4834 L0.6031,35.8054 C-0.3569,36.9744 -0.3759,40.0294 2.0781,40.0294 L30.4211,40.0294 C33.1221,40.0294 32.8571,36.9744 31.8961,35.8054 L17.9881,10.4834 C17.0281,9.3144 15.4711,9.3144 14.5111,10.4834" id="Fill-1" fill="#5A9CFF"></path>
+                <path d="M36.2399,1.1536 L17.9509,34.4726 C16.6889,36.0106 16.6639,40.0306 19.8909,40.0306 L57.1609,40.0306 C60.7129,40.0306 60.3639,36.0106 59.1009,34.4726 L40.8119,1.1536 C39.5499,-0.3844 37.5029,-0.3844 36.2399,1.1536" id="Fill-3" fill="#95C8FF"></path>
+                <path d="M30.4218,40.0294 L19.8778,40.0294 C16.6648,40.0184 16.6898,36.0084 17.9508,34.4734 L24.5558,22.4404 L24.5558,22.4394 L31.8968,35.8064 C32.8568,36.9744 33.1228,40.0294 30.4218,40.0294" id="Fill-6" fill="#3A76FF"></path>
+            </g>
+        </g>
+    </g>
+</svg>
